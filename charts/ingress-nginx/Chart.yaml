@@ -1,9 +1,9 @@
 annotations:
   artifacthub.io/changes: |
-    - Update Ingress-Nginx version controller-v1.15.1
+    - Update Ingress-Nginx version controller-v1.15.5
   artifacthub.io/prerelease: "false"
 apiVersion: v2
-appVersion: 1.15.1
+appVersion: 1.15.5
 description: Ingress controller for Kubernetes using NGINX as a reverse proxy and
   load balancer
 home: https://github.com/kubernetes/ingress-nginx
